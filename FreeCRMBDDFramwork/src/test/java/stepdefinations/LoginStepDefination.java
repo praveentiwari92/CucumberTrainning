@@ -62,7 +62,7 @@ public class LoginStepDefination
 	    	
 	    }
 	    else {
-	    	System.out.println("user unable to logind");
+	    	System.out.println("user login failed ");
 	    }
 	}
 
